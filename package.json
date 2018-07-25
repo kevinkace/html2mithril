@@ -1,0 +1,16 @@
+{
+  "name": "html2mithril",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom-global": "^3.0.2",
+    "xmldom": "^0.1.27"
+  }
+}
